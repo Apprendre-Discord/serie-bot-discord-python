@@ -21,6 +21,18 @@ venv\Scripts\activate   # Windows
 source venv/bin/activate   # Mac/Linux
 ```
 
+- Installez les dépendances :
+
+```bash
+pip install discord.py python-dotenv
+```
+
+- Générez le fichier requirements.txt :
+
+```bash
+pip freeze > requirements.txt
+```
+
 ### 2️⃣ Créer un bot sur le Discord Developer Portal
 
 - Allez sur **[Discord Developer Portal](https://discord.com/developers/applications)**
@@ -87,4 +99,5 @@ Vous pouvez utiliser et modifier ce code librement pour vos projets personnels o
 
 ## 🎥 Retrouvez le tutoriel complet en vidéo :
 
-[Lien vers la vidéo YouTube](#)
+[Lien vers la vidéo YouTube](#https://youtu.be/waGZoqe4cZU)
+
