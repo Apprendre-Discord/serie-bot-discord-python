@@ -99,5 +99,4 @@ Vous pouvez utiliser et modifier ce code librement pour vos projets personnels o
 
 ## 🎥 Retrouvez le tutoriel complet en vidéo :
 
-[Lien vers la vidéo YouTube](#https://youtu.be/waGZoqe4cZU)
-
+- `[Lien vers la vidéo YouTube](https://youtu.be/waGZoqe4cZU)`
