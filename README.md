@@ -21,15 +21,16 @@ venv\Scripts\activate   # Windows
 source venv/bin/activate   # Mac/Linux
 ```
 
-- Installez les dépendances :
+- Installez les dépendances (si vous avez téléchargé le projet, le fichier `requirements.txt` est déjà fourni) :
+
+```bash
+pip install -r requirements.txt
+```
+
+**OU** si vous partez de zéro :
 
 ```bash
 pip install discord.py python-dotenv
-```
-
-- Générez le fichier requirements.txt :
-
-```bash
 pip freeze > requirements.txt
 ```
 
